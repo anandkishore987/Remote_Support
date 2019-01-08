@@ -1,0 +1,9 @@
+﻿  main.c
+d:\projects2\remote_support\remotesupportsolution\h264objectivec\main.c(70): warning C4102: 'fail3': unreferenced label
+d:\projects2\remote_support\remotesupportsolution\h264objectivec\main.c(34): warning C4101: 'nal': unreferenced local variable
+d:\projects2\remote_support\remotesupportsolution\h264objectivec\main.c(30): warning C4101: 'pic_out': unreferenced local variable
+d:\projects2\remote_support\remotesupportsolution\h264objectivec\main.c(29): warning C4101: 'pic': unreferenced local variable
+d:\projects2\remote_support\remotesupportsolution\h264objectivec\main.c(33): warning C4101: 'i_frame_size': unreferenced local variable
+d:\projects2\remote_support\remotesupportsolution\h264objectivec\main.c(35): warning C4101: 'i_nal': unreferenced local variable
+main.obj : error LNK2019: unresolved external symbol x264_encoder_open_157 referenced in function main
+D:\Projects2\Remote_Support\RemoteSupportSolution\x64\Debug\H264ObjectiveC.exe : fatal error LNK1120: 1 unresolved externals
